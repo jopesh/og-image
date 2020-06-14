@@ -150,7 +150,7 @@ const markdownOptions: DropdownOption[] = [
 const imageLightOptions: DropdownOption[] = [
   {
     text: "Jopesh",
-    value: "https://www.datocms-assets.com/28171/1592146282-jopesh.svg",
+    value: "https://www.datocms-assets.com/28171/1592162569-js-black.svg",
   },
   {
     text: "Vercel",
@@ -172,7 +172,7 @@ const imageLightOptions: DropdownOption[] = [
 const imageDarkOptions: DropdownOption[] = [
   {
     text: "Jopesh",
-    value: "https://www.datocms-assets.com/28171/1592151296-jopeshwhite.svg",
+    value: "https://www.datocms-assets.com/28171/1592162570-js-white.svg",
   },
   {
     text: "Vercel",

@@ -56,8 +56,8 @@ function getArray(stringOrArray: string[] | string | undefined): string[] {
 function getDefaultImages(images: string[], theme: Theme): string[] {
   const defaultImage =
     theme === "light"
-      ? "https://www.datocms-assets.com/28171/1592146282-jopesh.svg"
-      : "https://www.datocms-assets.com/28171/1592151296-jopeshwhite.svg";
+      ? "https://www.datocms-assets.com/28171/1592162569-js-black.svg"
+      : "https://www.datocms-assets.com/28171/1592162570-js-white.svg";
 
   if (!images || !images[0]) {
     return [defaultImage];
